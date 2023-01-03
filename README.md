@@ -35,7 +35,7 @@ The React JS frontend takes input from the checkbox => adds the input to my API 
 
 ## **Frontend Screenshots**
 
-![1](https://user-images.githubusercontent.com/106341725/210370534-fc5a5f15-4464-4c26-86ae-7fc9ded4029e.png)
+![1](https://user-images.githubusercontent.com/106341725/210374055-6f653d8a-500d-404c-8a9e-510462d43b3a.png)
 
 ![2](https://user-images.githubusercontent.com/106341725/210370578-45f187d1-0d98-402e-a5cb-82cc4d978967.jpg)
 
@@ -51,6 +51,22 @@ The React JS frontend takes input from the checkbox => adds the input to my API 
 ![6](https://user-images.githubusercontent.com/106341725/210358018-af0f0cb6-5610-464c-9b9a-5bbb3795855d.jpg)
 
 ![7](https://user-images.githubusercontent.com/106341725/210358237-ffb9133f-14a2-435c-aafa-ca5a87ef9ec4.jpg)
+
+
+## **Running the app**
+
+**git clone https://github.com/Nati-Zerai/WebCaseStudy-Backend-Node.git**
+**npm install**
+**node server.js**
+
+*However, no need to run the server because it is hosted on Heroku: https://natnael-nodejs-server.herokuapp.com/confidence?group_category= [PLACE YOUR SEARCH INPUT HERE]*
+
+*For full application experience use the **Frontend** of the application*
+
+**git clone https://github.com/Nati-Zerai/WebCaseStudy.git**
+**npm install**
+**npm start**
+
 
 
 
