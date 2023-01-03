@@ -35,7 +35,7 @@ The React JS frontend takes input from the checkbox => adds the input to my API 
 
 ## **Frontend Screenshots**
 
-![1](https://user-images.githubusercontent.com/106341725/210374055-6f653d8a-500d-404c-8a9e-510462d43b3a.png)
+![111111111111](https://user-images.githubusercontent.com/106341725/210375631-ef2931fc-bda8-4f28-b5dd-ed5450de51e5.jpg)
 
 ![2](https://user-images.githubusercontent.com/106341725/210370578-45f187d1-0d98-402e-a5cb-82cc4d978967.jpg)
 
